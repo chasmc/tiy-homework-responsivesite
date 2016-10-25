@@ -150,22 +150,7 @@ footer{
 }
 
 /*break 2*/
-@media(min-width: 479px) and (max-width: 767px){
-  .info, .allcol{
-    float:none;
-    width:100%;
-  }
-  .allcol{
-    float:none;
-    width: 100%;
-  }
-  .main{
-    margin:0;
-  }
-}
-
-/*break 1*/
-@media(max-width:478px){
+@media(max-width: 767px){
   .info, .allcol{
     float:none;
     width:100%;
